@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+xivlDBHwcdM4d71EmU+j5voLuuZluamTitxYOLDTi4=",
+  "Source": "POC_Web_API_With_AWS_Secret_Manager",
+  "BasePath": "_content/POC_Web_API_With_AWS_Secret_Manager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

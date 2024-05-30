@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bry/EK89KDoglSQ3PZFZvIhz0FzGsJaM65zfIN2cbEc=",
+  "Source": "POC_Web_API_With_AWS_Secret_Manager",
+  "BasePath": "_content/POC_Web_API_With_AWS_Secret_Manager",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
